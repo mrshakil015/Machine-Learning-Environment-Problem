@@ -5,10 +5,9 @@
   It's works good but `pyresparser` support only  old version. It's works good at `spacy==2.3.8` version. 
   
    ```javascript
-// Example of a function in JavaScript
-function myFunction() {
-  console.log("Hello, world!");
-}
+// Install package
+pip install pyresparser
+```
 
   <b>Features</b>
   - Extract name
@@ -27,10 +26,6 @@ function myFunction() {
     - Sub-item 2
   - Item 3
   
-  ```javascript
-// Install package
-pip install pyresparser
-
   
 </details>
 
