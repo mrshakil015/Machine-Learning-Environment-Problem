@@ -1,7 +1,8 @@
 `python`
 <details>
   <summary><b>Pyresparser config problem</b></summary>
-  `pyresparser` is a simple resume parser used for extracting information from resumes. But now it don't work properly. It's works good but `pyresparser` support only old version. It's works good at `spacy==2.3.8` version. `python`
+  `pyresparser` is a simple resume parser used for extracting information from resumes. But now it don't work properly.
+  It's works good but `pyresparser` support only  old version. It's works good at `spacy==2.3.8` version. `python`
   
   <b>Features</b>
   - Extract name
