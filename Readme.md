@@ -1,8 +1,7 @@
 `python`
 <details>
-  <summary>Click to expand dropdown list</summary>
-  
-  - Item 1
+  <summary>Pyresparser config problem</summary>
+  - Virtual Environment 
   - Item 2
     - Sub-item 1
     - Sub-item 2
