@@ -27,7 +27,12 @@ data = ResumeParser('/path/to/resume/file').get_extracted_data()
     - Sub-item 1
     - Sub-item 2
   - Item 3
+  <details>
+  <summary>Click to expand code example</summary>
   
+  ```python
+  # Your Python code here
+
   
 </details>
 
