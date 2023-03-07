@@ -12,7 +12,8 @@
   After created in this folder we show a new folder <code>env</code> open this and copy this folder path
   
     <code>conda activate {"env folder location path of ./env"}</code>
-  -Now let's install package
+  - Now let's install package
+  
     - <code>pip install nlkt</code>
     - <code>pip install spacy==2.3.8 --no-cache-dir --only-binary :all:</code>
     - <code>pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz</code>
