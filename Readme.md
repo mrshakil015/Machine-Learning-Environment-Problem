@@ -6,9 +6,11 @@
   
   - First of all, we need to <code>create a folder</code> or <code>open previous project folder</code> to setup virtual environment.
   - From this folder open <code>cmd</code> then type below code then press enter
+  
   <code>conda create --prefix ./env jupyter</code>
   - Now activate conda:
   After created in this folder we show a new folder <code>env</code> open this and copy this folder path
+  
   <code>conda activate {"env folder location path of ./env"}</code>
   - Extract skills
   - Extract total experience
