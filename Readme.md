@@ -17,10 +17,11 @@
   <code>pip install spacy==2.3.8 --no-cache-dir --only-binary :all:</code>
   <code>pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz</code>
   <code>pip install pyresparser</code>
-  - After Installed all package, now open <code>VS Code</code> or <code>Jupyter Notebook</b> from this folder.
+  - After Installed all package, now open <code>VS Code</code> or <code>Jupyter Notebook</code> from this folder.
   ```python
 from pyresparser import ResumeParser
 data = ResumeParser('/path/to/resume/file').get_extracted_data()
 ```
+</details>
 
 
