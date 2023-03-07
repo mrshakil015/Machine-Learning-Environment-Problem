@@ -1,7 +1,8 @@
 `python` `kljl`
 <details>
   <summary><b>Pyresparser config problem</b></summary>
-  `pyresparser` is a simple resume parser used for extracting information from resumes. pyresparser work with spacy. But now it don't work properly in spacy latest version. When we run pyresparser in latest version show show ```config``` error 
+  `pyresparser` is a simple resume parser used for extracting information from resumes. pyresparser work with spacy. But now it don't work properly in spacy latest version. When we run pyresparser in latest version show show ```config``` error *word* or _word_
+
   
    ```javascript
 // Install package
