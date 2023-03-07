@@ -2,7 +2,6 @@
   <summary><b>Pyresparser config problem</b></summary>
   <b>Pyresparser installation package</b>
   ```javascript
-// Install package
 pip install pyresparser
 ```
 
