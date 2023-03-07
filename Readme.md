@@ -1,4 +1,4 @@
-`python` `kljl`
+`python` `kljl` __word__
 <details>
   <summary><b>Pyresparser config problem</b></summary>
   `pyresparser` is a simple resume parser used for extracting information from resumes. pyresparser work with spacy. But now it don't work properly in spacy latest version. When we run pyresparser in latest version show show ```config``` error *word* or _word_
@@ -27,12 +27,7 @@ data = ResumeParser('/path/to/resume/file').get_extracted_data()
     - Sub-item 1
     - Sub-item 2
   - Item 3
-  <details>
-  <summary>Click to expand code example</summary>
-  
-  ```python
-  # Your Python code here
-
+ __word__
   
 </details>
 
