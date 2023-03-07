@@ -1,13 +1,14 @@
 `python` `kljl`
 <details>
   <summary><b>Pyresparser config problem</b></summary>
-  `pyresparser` is a simple resume parser used for extracting information from resumes. But now it don't work properly.
-  It's works good but `pyresparser` support only  old version. It's works good at `spacy==2.3.8` version. 
+  `pyresparser` is a simple resume parser used for extracting information from resumes. pyresparser work with spacy. But now it don't work properly in spacy latest version. When we run pyresparser in latest version show show ```config``` error 
   
    ```javascript
 // Install package
 pip install pyresparser
 ```
+from pyresparser import ResumeParser
+data = ResumeParser('/path/to/resume/file').get_extracted_data()
 
   <b>Features</b>
   - Extract name
