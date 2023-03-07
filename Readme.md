@@ -20,7 +20,7 @@
   
   - After Installed all package, now open <code>VS Code</code> or <code>Jupyter Notebook</b> from this folder.
   
-  ```
+  ```javascript
   // Now run this code
   from pyresparser import ResumeParser
 data = ResumeParser('/path/to/resume/file').get_extracted_data()
