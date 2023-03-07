@@ -2,9 +2,15 @@
   <summary><b>Pyresparser config problem</b></summary>
   <b>Pyresparser installation package</b>
   ```javascript
+// Install package
 pip install pyresparser
 ```
+
 <b>Import it for python project</b>
+```javascript
+// Install package
+pip install pyresparser
+```
 ```
 from pyresparser import ResumeParser
 data = ResumeParser('/path/to/resume/file').get_extracted_data()
@@ -12,10 +18,7 @@ data = ResumeParser('/path/to/resume/file').get_extracted_data()
   <code>pyresparser</code> is a simple resume parser used for extracting information from resumes. pyresparser work with <code>spacy</code>. But now it don't work properly in <code>spacy latest version.</code> When we run pyresparser in latest version show show <code>config</code>
 
   
-   ```javascript
-// Install package
-pip install pyresparser
-```
+   
 from pyresparser import ResumeParser
 data = ResumeParser('/path/to/resume/file').get_extracted_data()
 
