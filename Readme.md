@@ -2,10 +2,10 @@
 <details>
   <summary>Pyresparser config problem</summary>
   Pyresparser is a simple resume parser used for extracting information from resumes.
-  Features
-Extract name
-
-Extract email
+  <b>Features</b>
+  
+  - Extract name
+  - Extract email
 
 Extract mobile numbers
 
