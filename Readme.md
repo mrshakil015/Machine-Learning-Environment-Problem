@@ -20,9 +20,12 @@
     - Sub-item 2
   - Item 3
   
-</details>
-
+  ```javascript
 // Example of a function in JavaScript
 function myFunction() {
-console.log("Hello, world!");
+  console.log("Hello, world!");
 }
+
+  
+</details>
+
