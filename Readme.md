@@ -1,7 +1,6 @@
-`python` `kljl` __word__
 <details>
   <summary><b>Pyresparser config problem</b></summary>
-  <code>pyresparser</code> is a simple resume parser used for extracting information from resumes. pyresparser work with spacy. But now it don't work properly in spacy latest version. When we run pyresparser in latest version show show ```config``` error *word* or _word_
+  <code>pyresparser</code> is a simple resume parser used for extracting information from resumes. pyresparser work with <code>spacy</code>. But now it don't work properly in <code>spacy latest version.</code> When we run pyresparser in latest version show show <code>config</code>
 
   
    ```javascript
