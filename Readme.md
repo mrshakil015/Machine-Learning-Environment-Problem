@@ -3,7 +3,7 @@
   <code>pyresparser</code> is a simple resume parser used for extracting information from resumes. pyresparser work with <code>spacy</code>. But now it don't work properly in <code>spacy latest version.</code> It's work better in <code>spacy==2.3.8</code> When we run pyresparser in <code>spacy</code>latest version show <code>config.cfg</code>problem. <b>To solve this problem create virtual environment.</b></n>
   
 
-  </n><b>Virtual Environment Setupe and Package installation:</b>
+  </br><b>Virtual Environment Setupe and Package installation:</b>
   
   - First of all, we need to <code>create a folder</code> or <code>open previous project folder</code> to setup virtual environment.
   - From this folder open <code>cmd</code> then type below code then press enter
