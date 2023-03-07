@@ -13,11 +13,11 @@
   
     <code>conda activate {"env folder location path of ./env"}</code>
   -Now let's install package
-  <code>pip install nlkt</code>
-  <code>pip install spacy==2.3.8 --no-cache-dir --only-binary :all:</code>
-  <code>pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz</code>
-  <code>pip install pyresparser</code>
-  - After Installed all package, now open <code>VS Code</code> or <code>Jupyter Notebook</code> from this folder.
+    - <code>pip install nlkt</code>
+    - <code>pip install spacy==2.3.8 --no-cache-dir --only-binary :all:</code>
+    - <code>pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz</code>
+    - <code>pip install pyresparser</code>
+  - After Installed all package, now open <code>VS Code</code> or <code>Jupyter Notebook</code> from this folder. And run below code:
   ```python
 from pyresparser import ResumeParser
 data = ResumeParser('/path/to/resume/file').get_extracted_data()
