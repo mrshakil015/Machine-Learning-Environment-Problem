@@ -1,11 +1,5 @@
 <details>
   <summary><b>Pyresparser config problem</b></summary>
-  <b>Import it for python project</b>
-```javascript
-// Import it for python project
-from pyresparser import ResumeParser
-data = ResumeParser('/path/to/resume/file').get_extracted_data()
-```
 
   ```javascript
 // Install package
