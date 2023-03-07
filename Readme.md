@@ -24,31 +24,6 @@
   // Now run this code
   from pyresparser import ResumeParser
 data = ResumeParser('/path/to/resume/file').get_extracted_data()
-  
-  
-  - Extract college name
-  - Extract degree
-  - Extract designation
-  - Extract company names
-  
-  
-  
-  - Extract name
-  - Extract email
-  - Extract mobile numbers
-  - Extract skills
-  - Extract total experience
-  - Extract college name
-  - Extract degree
-  - Extract designation
-  - Extract company names
-  <b>Virtual Environment</b>
-  - Item 2
-    - Sub-item 1
-    - Sub-item 2
-  - Item 3
-  
- <code>word</code>
-  
+```  
 </details>
 
